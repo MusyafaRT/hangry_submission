@@ -1,23 +1,19 @@
-import logo from './logo.svg';
+
 import './App.css';
+import Banner from './components/Banner';
+import FindUs from './components/FindUs';
+import Outlet from './components/Outlet';
+import Footer from './layout/Footer';
+import { Navbar } from './layout/Navbar';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="lg:max-w-[1100px] lg:mx-auto">
+      <Navbar />
+      <Banner />
+      <Outlet />
+      <FindUs />
+      <Footer />
     </div>
   );
 }
