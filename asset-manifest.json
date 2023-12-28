@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/static/css/main.da2e71d2.css",
+    "main.js": "/static/js/main.7a63ddfa.js",
+    "static/js/787.6d2c81f2.chunk.js": "/static/js/787.6d2c81f2.chunk.js",
+    "static/media/bsLogo.svg": "/static/media/bsLogo.794fdc5e47e157cbef22f42a2ab85de7.svg",
+    "static/media/banner.png": "/static/media/banner.90e865700c1f5de0147f.png",
+    "static/media/bude_sari.png": "/static/media/bude_sari.25ec3df5647455df1ec4.png",
+    "static/media/ayam_koplo.png": "/static/media/ayam_koplo.905b5dcd5615e603780d.png",
+    "static/media/phone.png": "/static/media/phone.57439020a57d908410f3.png",
+    "static/media/sangyu.png": "/static/media/sangyu.c185afd7e1cffeade796.png",
+    "static/media/akLogo.svg": "/static/media/akLogo.5eaa48fc510d5458425bb486bb86d743.svg",
+    "static/media/grabfood.svg": "/static/media/grabfood.c018fda4cebf51b01db3481bdde9083d.svg",
+    "static/media/sgLogo.svg": "/static/media/sgLogo.a06278f94020722c574143d617906ba2.svg",
+    "static/media/zomato.svg": "/static/media/zomato.476f30ad057ae26010d4ea41785568a0.svg",
+    "static/media/traveloka.svg": "/static/media/traveloka.15e3c5de1360df5540c9fd06dd04cbc3.svg",
+    "static/media/Logo.svg": "/static/media/Logo.37a38cf5b7d646f295b7de80c766a5bc.svg",
+    "static/media/Button Apps Store.svg": "/static/media/Button Apps Store.4d8719929d8c48277e986fb0c38c3569.svg",
+    "static/media/gofood.svg": "/static/media/gofood.fa67819988a9e22325d0080bd9fdc30f.svg",
+    "static/media/Button Playstore.svg": "/static/media/Button Playstore.b3d9221e17a891c093e83784198266df.svg",
+    "index.html": "/index.html",
+    "main.da2e71d2.css.map": "/static/css/main.da2e71d2.css.map",
+    "main.7a63ddfa.js.map": "/static/js/main.7a63ddfa.js.map",
+    "787.6d2c81f2.chunk.js.map": "/static/js/787.6d2c81f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.da2e71d2.css",
+    "static/js/main.7a63ddfa.js"
+  ]
+}
