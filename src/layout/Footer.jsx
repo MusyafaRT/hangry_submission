@@ -5,14 +5,14 @@ import { bold } from "fontawesome";
 
 export default function Footer() {
   return (
-    <footer className="lg:flex lg:gap-8 pb-12 lg:pb-32 px-4 lg:px-12 xl:px-0">
+    <footer className="md:flex md:items-center md:gap-8 pb-12 lg:pb-32 px-4 md:px-12 xl:px-0">
       <div className="flex flex-col text-start basis-3/5 gap-3">
       <img
         src={footerImg}
         alt="Footer"
         width={328}
         height={172}
-        className="lg:hidden flex-shrink-0 w-full"
+        className="md:hidden flex-shrink-0 w-full"
       />
         <h1 className="text-2xl lg:text-3xl xl:text-4xl font-bold">
           Makin rame, makin hemat!
@@ -67,7 +67,7 @@ export default function Footer() {
           alt="Footer"
           width={540}
           height={400}
-          className="hidden lg:block"
+          className="hidden md:flex"
         />
       </div>
     </footer>

@@ -38,10 +38,10 @@ const outlets = [
 
 export default function Outlet() {
     return (
-        <section className='flex flex-col gap-2 px-4 lg:px-12 xl:px-0 bg-white text-start pt-14 pb-14 lg:pb-[120px] w-full'>
+        <section className='flex flex-col gap-2 px-4 md:px-12 xl:px-0 bg-white text-start pt-14 pb-14 lg:pb-[120px] w-full'>
             <h1 className='text-2xl lg:text-3xl xl:text-4xl text-darkGray font-bold'>Hangry! adalah restoran dengan beragam brand </h1>
             <p className='text-base lg:text-xl xl:text-2xl text-gray'>Kami menyajikan beragam brand untuk menemani setiap waktu santapmu</p>
-            <div className='flex flex-wrap justify-center gap-2 lg:justify-between py-6'>
+            <div className='flex flex-wrap justify-center gap-2 md:justify-between py-6'>
             {outlets.map((outlet) => (
                 <OutletCard key={outlet.id} outlet={outlet} />
             ))}

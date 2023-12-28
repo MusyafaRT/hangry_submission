@@ -25,7 +25,7 @@ export const Navbar = () => {
 
   return (
     <>
-      <nav className="relative flex flex-row justify-between lg:justify-around xl:justify-between items-center w-full p-3 lg:py-6 max-w-screen-xl">
+      <nav className="relative flex flex-row justify-between lg:justify-around xl:justify-between items-center w-full p-3 lg:py-6 md:px-12 max-w-screen-xl">
         <div className="icon flex flex-row items-center">
           <img
             src={logo}
